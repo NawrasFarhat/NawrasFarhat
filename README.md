@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nawras Farhat</h1>
 <h3 align="center">AI & Data Engineering specialist focused on building scalable, high-impact AI environments.</h3>
 
-- 🔭 Developing now [RAG-based Backend System (Backend system using Python and FastAPI with document processing and retrieval APIs).](https://github.com/NawrasFarhat/myrag.git)
+- 🔭 Developing now [RAG-based Backend System](https://github.com/NawrasFarhat/myrag.git)
 
 - 🌱 Completed project: [Olive Disease Diagnosis System](https://github.com/NawrasFarhat/Palestinian-Agricultural-Consultation-Platform.git)
 
