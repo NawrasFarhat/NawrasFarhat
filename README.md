@@ -63,5 +63,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NawrasFarhat&show_icons=true&theme=radical" alt="Nawras's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasFarhat&layout=compact&theme=radical" alt="Top Languages" />
 </p>
