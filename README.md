@@ -9,10 +9,10 @@
 
 ### 🚀 Current Focus & Projects
 
-- [cite_start]**🔭 Currently Working On:** [RAG-based Backend System](https://github.com/NawrasFarhat/myrag.git) – A robust backend architecture for document processing and intelligent retrieval.
-- [cite_start]**🌱 Featured Project:** [Olive Disease Diagnosis System](https://github.com/NawrasFarhat/Palestinian-Agricultural-Consultation-Platform.git) – An AI-driven platform for agricultural advisory (Graduation Project).
-- [cite_start]**🔬 Research Work:** [FC Work Zones](https://github.com/NawrasFarhat/FC-Work-Zones.git) – Machine learning system for predicting fuel consumption based on driver behavior.
-- [cite_start]**📄 Curriculum Vitae:** [View my professional experience here](https://drive.google.com/file/d/1ahOFvihYJlgimlwqRGxlP32wKJAi5FRn/view?usp=sharing)[cite: 1].
+🔭 Currently Working On:** [RAG-based Backend System](https://github.com/NawrasFarhat/myrag.git) – A robust backend architecture for document processing and intelligent retrieval.
+🌱 Featured Project:** [Olive Disease Diagnosis System](https://github.com/NawrasFarhat/Palestinian-Agricultural-Consultation-Platform.git) – An AI-driven platform for agricultural advisory (Graduation Project).
+🔬 Research Work:** [FC Work Zones](https://github.com/NawrasFarhat/FC-Work-Zones.git) – Machine learning system for predicting fuel consumption based on driver behavior.
+📄 Curriculum Vitae:** [View my professional experience here](https://drive.google.com/file/d/1ahOFvihYJlgimlwqRGxlP32wKJAi5FRn/view?usp=sharing)[cite: 1].
 
 ---
 
