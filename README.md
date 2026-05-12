@@ -62,6 +62,15 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NawrasFarhat&show_icons=true&theme=radical&rank_icon=github" alt="Nawras's GitHub Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasFarhat&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NawrasFarhat&theme=radical" alt="GitHub Profile Summary" />
 </p>
