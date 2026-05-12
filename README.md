@@ -12,10 +12,18 @@
 * 🔭 **Currently Working On:** [RAG-based Backend System](https://github.com/NawrasFarhat/myrag.git) – A robust backend architecture for document processing and intelligent retrieval.
 * 🌱 **Featured Project:** [Olive Disease Diagnosis System](https://github.com/NawrasFarhat/Palestinian-Agricultural-Consultation-Platform.git) – An AI-driven platform for agricultural advisory (Graduation Project).
 * 🔬 **Research Work:** [FC Work Zones](https://github.com/NawrasFarhat/FC-Work-Zones.git) – Machine learning system for predicting fuel consumption based on driver behavior.
-* 📄 **Curriculum Vitae:** [View my professional experience here](https://drive.google.com/file/d/1ahOFvihYJlgimlwqRGxlP32wKJAi5FRn/view?usp=sharing).
-
 ---
 
+### 📫 How to reach me
+<p align="left">
+  <a href="mailto:nawrasfarhat123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nawrasfarhat123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+- 📄 **Curriculum Vitae:** [View my professional experience here](https://drive.google.com/file/d/1ahOFvihYJlgimlwqRGxlP32wKJAi5FRn/view?usp=sharing).
+
+---
 ### 🛠 Skills & Tools
 
 #### 🧠 Artificial Intelligence & Data Science
