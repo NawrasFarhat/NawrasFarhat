@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 📄 **Curriculum Vitae:** [View my professional experience here](https://drive.google.com/file/d/1ahOFvihYJlgimlwqRGxlP32wKJAi5FRn/view?usp=sharing).
+- 📄 **Curriculum Vitae:** [View my professional experience here](https://drive.google.com/file/d/1qpX65wBOlvryDxUphmvhoW-zTilE8pQt/view?usp=sharing).
 
 ---
 ### 🛠 Skills & Tools
